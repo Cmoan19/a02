@@ -35,5 +35,10 @@ def run_tests():
 
 
 def powers(n):
-
+    for i in range(1,100):
+        n = 1,8,27,64 :
+            print("Cube")
+            
+    
+        
 

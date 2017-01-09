@@ -45,5 +45,25 @@ def run_tests():
 
 
 def season(month):
+    
+    if month.upper() == "dec":
+        print("Winter")
+        
+    if month.upper() == "mar":
+        print("Spring")
+
+    if month.upper() == "jun":
+        print("Summer")
+        
+    if month.upper() == "sep":
+        print("Autumn")
+
+    else:
+        print("Month not recognised")
+         
+         
+        
+
+    
 
 
